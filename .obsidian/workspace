@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "9640465c2e780c47",
+    "type": "split",
+    "children": [
+      {
+        "id": "4663c23ab4f3d23d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BASC/2 - Introduction and General Topics.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "996d39aba1bd3a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbff69c4c37a47fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e85d15d1a99385e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c16de295f86a879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9acee1aedede114",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fd59bd49fe4c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f4efc9a3c58b65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BASC/2 - Introduction and General Topics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4663c23ab4f3d23d",
+  "lastOpenFiles": [
+    "BASC/2 - Introduction and General Topics.md",
+    "BASC/4 - Animal Breeds.md",
+    "BASC/3 - Terminologies and Physiological Values.md",
+    "BASC/1 - Ansci Topics.md",
+    "Final Product.md",
+    "BASC/Attachments/History of Animal Domestication.png",
+    "BASC/Attachments/Ecosystem Levels.png",
+    "Grading Systems.md",
+    "Pasted image 20220328115418.png.md",
+    "Pasted image 20220328120100.png"
+  ]
+}
