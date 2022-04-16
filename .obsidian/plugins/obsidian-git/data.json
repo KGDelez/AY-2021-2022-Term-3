@@ -1,8 +1,8 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "Lieta PC Manual: {{date}}",
+  "autoCommitMessage": "Lieta PC Auto {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 0,
+  "autoSaveInterval": 10,
   "autoPullInterval": 0,
   "autoPullOnBoot": false,
   "disablePush": false,
