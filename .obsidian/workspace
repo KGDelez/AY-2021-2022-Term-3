@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "9640465c2e780c47",
+    "type": "split",
+    "children": [
+      {
+        "id": "4663c23ab4f3d23d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "BASC/3 - Terminologies and Physiological Values/3.7.1 - Horse Breeds.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "996d39aba1bd3a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbff69c4c37a47fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e85d15d1a99385e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c16de295f86a879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e9acee1aedede114",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9fd59bd49fe4c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2f4efc9a3c58b65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BASC/3 - Terminologies and Physiological Values/3.7.1 - Horse Breeds.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "2f1b5ab2461cc14f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "4663c23ab4f3d23d",
+  "lastOpenFiles": [
+    "BASC/3 - Terminologies and Physiological Values/3.7.1 - Horse Breeds.md",
+    "BASC/3 - Terminologies and Physiological Values/3.7 - Breeds of Animals.md",
+    "3.7.1 - Horse Breeds^.md",
+    "BASC/3 - Terminologies and Physiological Values/3.6 - Breeding Terminologies.md",
+    "BASC/3 - Terminologies and Physiological Values/3.5 - Terminologies.md",
+    "BASC/3 - Terminologies and Physiological Values/3.4 - Names.md",
+    "BASC/3 - Terminologies and Physiological Values/3.3 - Physiological Values.md",
+    "BASC/3 - Terminologies and Physiological Values/3 - Terminologies and Physiological Values.md",
+    "BASC/3 - Terminologies and Physiological Values/3.1 - Parts of Some Medical Instruments.md",
+    "BASC/3 - Terminologies and Physiological Values/3.2- Vital Signs.md"
+  ]
+}

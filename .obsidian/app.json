@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./Attachments",
+  "foldHeading": true,
+  "foldIndent": true,
+  "showFrontmatter": true
+}
