@@ -7,8 +7,12 @@
         "id": "4663c23ab4f3d23d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "BASC  Kit Kit's Notes/4 - Animal Breeds/4.2 - Horse Breeds.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BASC  Kit Kit's Notes/4 - Animal Breeds/4.2 - Horse Breeds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,9 +96,9 @@
   },
   "active": "4663c23ab4f3d23d",
   "lastOpenFiles": [
+    "BASC  Kit Kit's Notes/4 - Animal Breeds/4.2 - Horse Breeds.md",
     "Test Note.md",
     "BASC  Kit Kit's Notes/Grading Systems.md",
-    "BASC  Kit Kit's Notes/4 - Animal Breeds/4.2 - Horse Breeds.md",
     "BASC  Kit Kit's Notes/4 - Animal Breeds/4.1 - Breeding Terminologies.md",
     "BASC  Kit Kit's Notes/3 - Terminologies and Physiological Values/3.5 - Terminologies.md",
     "BASC  Kit Kit's Notes/4 - Animal Breeds/Attachments/American Creme Horse.png",
