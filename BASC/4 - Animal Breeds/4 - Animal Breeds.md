@@ -1,5 +1,5 @@
 ## Animal Breeds Overview
-### [[4.1 - Horse Breeds]]
+### [[4.2 - Horse Breeds]]
 #### Saddle and Harness
 - American Saddlebred
 - Appaloosa
