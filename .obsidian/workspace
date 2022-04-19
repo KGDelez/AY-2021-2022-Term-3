@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BASC101A  Kit Kit's Notes/Grading Systems.md",
+            "file": "CORE107/1.0 Introduction and Orientation.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASC101A  Kit Kit's Notes/Grading Systems.md",
+                "file": "CORE107/1.0 Introduction and Orientation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "e4ddb401c25f5362",
   "lastOpenFiles": [
+    "CORE107/1.0 Introduction and Orientation.md",
     "BASC101A  Kit Kit's Notes/Grading Systems.md",
     "BASC101A  Kit Kit's Notes/4 - Animal Breeds/4.2 - Horse Breeds.md",
     "BASC101A  Kit Kit's Notes/1 - Ansci Topics.md",
@@ -104,7 +105,6 @@
     "BASC101A  Kit Kit's Notes/4 - Animal Breeds/Attachments/American Creme Horse.png",
     "BASC101A  Kit Kit's Notes/3 - Terminologies and Physiological Values/3 - Terminologies and Physiological Values.md",
     "Test Note.md",
-    "BASC101A  Kit Kit's Notes/3 - Terminologies and Physiological Values/3.5 - Terminologies.md",
-    "BASC101A  Kit Kit's Notes/4 - Animal Breeds/4 - Animal Breeds.md"
+    "BASC101A  Kit Kit's Notes/3 - Terminologies and Physiological Values/3.5 - Terminologies.md"
   ]
 }
