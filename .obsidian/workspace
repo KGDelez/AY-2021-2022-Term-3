@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "LSVI102/1.0 Orientation/1.7 Diagnostic Test.md",
+            "file": "BASC101A/Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LSVI102/1.0 Orientation/1.7 Diagnostic Test.md",
+                "file": "BASC101A/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,7 @@
   },
   "active": "e4ddb401c25f5362",
   "lastOpenFiles": [
+    "BASC101A/Untitled.md",
     "LSVI102/1.0 Orientation/1.7 Diagnostic Test.md",
     "LSVI102/1.0 Orientation/1.5 Final Product.md",
     "LSVI102/1.0 Orientation/1.4 Topics.md",
@@ -104,7 +105,6 @@
     "LSVI102/1.0 Orientation/1.2 Desired Learning Outcomes.md",
     "LSVI102/1.0 Orientation/1.1 Course Description.md",
     "BCHE102A/1.0 Orientation/1.4 Additional Reminders.md",
-    "BCHE102A/1.0 Orientation/1.0 Orientation.md",
-    "BCHE102A/1.0 Orientation/1.3 Final Grading Topics.md"
+    "BCHE102A/1.0 Orientation/1.0 Orientation.md"
   ]
 }
