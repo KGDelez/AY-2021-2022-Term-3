@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102A/2.0 Chapter 1 Introduction/2.2.md",
+            "file": "BCHE102A/3.0/3.1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102A/2.0 Chapter 1 Introduction/2.2.md",
+                "file": "BCHE102A/3.0/3.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +96,8 @@
   },
   "active": "375757e0bbb021bc",
   "lastOpenFiles": [
+    "BCHE102A/3.0/3.1.md",
+    "BCHE102A/3.0/3.0 Keywords.md",
     "BCHE102A/2.0 Chapter 1 Introduction/2.2.md",
     "BCHE102A/2.0 Chapter 1 Introduction/2.1 Topic Outline.md",
     "PEED103/2.0 Orientation/2.1.md",
@@ -103,8 +105,6 @@
     "LSVI102/1.0 Orientation/1.5 Final Product.md",
     "LSVI102/1.0 Orientation/1.1 Course Description.md",
     "LSVI102/1.0 Orientation/1.2 Desired Learning Outcomes.md",
-    "LSVI102/1.0 Orientation/1.3 Lasallian Honors Code.md",
-    "LSVI102/1.0 Orientation/1.4 Topics.md",
-    "BASC101A/1.0 Orientation and Module 1/1.2 Final Product.md"
+    "LSVI102/1.0 Orientation/1.3 Lasallian Honors Code.md"
   ]
 }
