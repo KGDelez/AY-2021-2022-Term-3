@@ -13,10 +13,3 @@ Requirements ([[1 - Ansci Topics]]):
 1. Colored Pictures: TBA
 2. Module (Animal Science)
 3. Logbook
-
-
-Test change
-the quick brown fox jumped over the fence
-
-Paula Change
-
