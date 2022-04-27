@@ -6,5 +6,6 @@
   "attachmentFolderPath": "./Attachments",
   "foldHeading": true,
   "foldIndent": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "defaultViewMode": "source"
 }

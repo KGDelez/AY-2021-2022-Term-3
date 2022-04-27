@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2c87f188f30b9e0b",
+        "id": "2e6ea40da76e2cd3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "PEED103/2.0 Importance of PE/2.4 Reminders.md",
+            "file": "CORE107/0.0 Activities/0.1.2 Activity 1 - Reflection Proper.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4f621dc4a7d4f1a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CORE107/0.0 Activities/0.1.1 Activity 1 Video Notes.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PEED103/2.0 Importance of PE/2.4 Reminders.md",
+                "file": "CORE107/0.0 Activities/0.1.2 Activity 1 - Reflection Proper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,22 +101,41 @@
             }
           }
         ]
+      },
+      {
+        "id": "4e61fce8f2fcd539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "121a7872ebd5315f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CORE107/0.0 Activities/0.1.1 Activity 1 Video Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "2c87f188f30b9e0b",
+  "active": "2e6ea40da76e2cd3",
   "lastOpenFiles": [
+    "CORE107/0.0 Activities/0.1.2 Activity 1 - Reflection Proper.md",
+    "CORE107/0.0 Activities/0.1.0 Activity 1 Transcript.md",
+    "CORE107/0.0 Activities/0.1.1 Activity 1 Video Notes.md",
     "PEED103/2.0 Importance of PE/2.4 Reminders.md",
     "PEED103/2.0 Importance of PE/2.3 Values of Physical Education.md",
     "PEED103/2.0 Importance of PE/2.2 Benefits and Significance of PE.md",
     "PEED103/2.0 Importance of PE/2.1 Importance and Purpose of PE.md",
     "PEED103/1.0 Introduction and Concepts of Physical Education/1.5 Important Greek People for the Development of PE.md",
     "PEED103/1.0 Introduction and Concepts of Physical Education/1.4 Physical Education in the Past.md",
-    "PEED103/1.0 Introduction and Concepts of Physical Education/1.3 Goals of Physical Education.md",
-    "BCHE102A/1.0 Orientation/1.1 Grading System.md",
-    "BCHE102A/1.0 Orientation/1.2 Midterm Topics.md",
-    "BCHE102A/1.0 Orientation/1.4 Additional Reminders.md"
+    "PEED103/1.0 Introduction and Concepts of Physical Education/1.3 Goals of Physical Education.md"
   ]
 }
