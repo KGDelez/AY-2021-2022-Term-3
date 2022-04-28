@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102A/4.0 Introduction Continuation/4.4 Characteristics of Life.md",
+            "file": "BCHE102A/2.0 Chapter 1 Introduction/2.1 Topic Outline.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102A/4.0 Introduction Continuation/4.4 Characteristics of Life.md",
+                "file": "BCHE102A/2.0 Chapter 1 Introduction/2.1 Topic Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "5bb17d02ef08e80d",
   "lastOpenFiles": [
+    "BCHE102A/2.0 Chapter 1 Introduction/2.1 Topic Outline.md",
+    "BCHE102A/4.0 Introduction Continuation/4.1 Connection of Biochemistry to Medicine.md",
     "BCHE102A/4.0 Introduction Continuation/4.4 Characteristics of Life.md",
     "BASC101A  Kit Kit's Notes/4 - Animal Breeds/4.2 - Horse Breeds.md",
     "BASC101A/2.0 Terminologies and Scientific Names/2.5 Reproductive Phenomena in Mammals.md",
@@ -104,8 +106,6 @@
     "BASC101A/2.0 Terminologies and Scientific Names/2.3 Animal Nutrition Terminologies.md",
     "BASC101A/2.0 Terminologies and Scientific Names/2.2 Terminologies.md",
     "BASC101A/2.0 Terminologies and Scientific Names/2.1 Scientific Names of Farm Animals.md",
-    "BASC101A/1.0 Orientation and Module 1/1.3 Introduction to Animal Production and Economics.md",
-    "BASC101A/1.0 Orientation and Module 1/1.1 Orientation.md",
-    "BASC101A/1.0 Orientation and Module 1/1.2 Final Product.md"
+    "BASC101A/1.0 Orientation and Module 1/1.3 Introduction to Animal Production and Economics.md"
   ]
 }
