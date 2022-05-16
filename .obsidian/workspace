@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 3 - Intro to Food Macromolecules/2.2.6 Materials.md",
+            "file": "BASC101A/2.0 Terminologies and Scientific Names/2.2 Terminologies.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "e9acee1aedede114",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 3 - Intro to Food Macromolecules/2.2.6 Materials.md",
+                "file": "BASC101A/2.0 Terminologies and Scientific Names/2.2 Terminologies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,19 +94,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "5bb17d02ef08e80d",
   "lastOpenFiles": [
+    "BASC101A/2.0 Terminologies and Scientific Names/2.2 Terminologies.md",
+    "BASC101A/2.0 Terminologies and Scientific Names/2.3 Animal Nutrition Terminologies.md",
+    "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.0 Reminders.md",
+    "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.1 Breeds of Cattle.md",
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 3 - Intro to Food Macromolecules/2.2.6 Materials.md",
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.1 Background  - Acids and Bases.md",
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.2 The pH Scale.md",
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.7 Recap - Submission.md",
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.6 Guide Questions.md",
-    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.5 Procedure for determining pH level with Natural pH Indicator.md",
-    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.4 Procedure for Preparation of Natural Indicators.md",
-    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 3 - Intro to Food Macromolecules/2.2.5 Learning Objectives.md",
-    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 3 - Intro to Food Macromolecules/2.2.4 Proteins.md",
-    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 3 - Intro to Food Macromolecules/2.2.3 Lipids.md"
+    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.5 Procedure for determining pH level with Natural pH Indicator.md"
   ]
 }
