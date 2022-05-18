@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BASC101A/6.0 Breeds of Chicken/6.1.md",
+            "file": "BASC101A/7.0/7.1.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASC101A/6.0 Breeds of Chicken/6.1.md",
+                "file": "BASC101A/7.0/7.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +98,7 @@
   },
   "active": "5bb17d02ef08e80d",
   "lastOpenFiles": [
+    "BASC101A/7.0/7.1.md",
     "BASC101A/6.0 Breeds of Chicken/6.1.md",
     "BASC101A/2.0 Terminologies and Scientific Names/2.2 Terminologies.md",
     "BASC101A/2.0 Terminologies and Scientific Names/2.3 Animal Nutrition Terminologies.md",
@@ -106,7 +107,6 @@
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 3 - Intro to Food Macromolecules/2.2.6 Materials.md",
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.1 Background  - Acids and Bases.md",
     "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.2 The pH Scale.md",
-    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.7 Recap - Submission.md",
-    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.6 Guide Questions.md"
+    "BCHE102B/2.0 Pre-Lab 2 & 3/Pre-Lab 2 - Acids and Bases/2.1.7 Recap - Submission.md"
   ]
 }
