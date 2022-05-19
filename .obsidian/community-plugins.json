@@ -2,5 +2,6 @@
   "obsidian-to-anki-plugin",
   "table-editor-obsidian",
   "obsidian-git",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "obsidian-pandoc"
 ]
