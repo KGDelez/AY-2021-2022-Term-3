@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102A/6.0 Carbohydrates/6.4 Monosaccharides.md",
+            "file": "BASC101A/0.0 Self-study notes/0.3 Breeds of Cattle/0.3.4.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "breed",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102A/6.0 Carbohydrates/6.4 Monosaccharides.md",
+                "file": "BASC101A/0.0 Self-study notes/0.3 Breeds of Cattle/0.3.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "5bb17d02ef08e80d",
   "lastOpenFiles": [
+    "BASC101A/0.0 Self-study notes/0.3 Breeds of Cattle/0.3.4.md",
+    "BASC101A/0.0 Self-study notes/0.3 Breeds of Cattle/0.3.3 Beef Cattle Overview.md",
+    "BASC101A/0.0 Self-study notes/0.3 Breeds of Cattle/0.3.2 Breeding True, Crossbreeds or Mixed Breeds, and Hybrids.md",
+    "BASC101A/0.0 Self-study notes/0.3 Breeds of Cattle/0.3.1 Breed.md",
     "BCHE102A/6.0 Carbohydrates/6.4 Monosaccharides.md",
     "BCHE102A/6.0 Carbohydrates/6.3 Size Classes of Carbohydrates.md",
     "BCHE102A/6.0 Carbohydrates/6.2 Carbohydrates - Functions.md",
     "BCHE102A/6.0 Carbohydrates/6.1 Carbohydrates Introduction.md",
     "BCHE102A/6.0 Carbohydrates/6.0 Carbohydrates Index.md",
-    "BCHE102A/7.0 Carbohydrate General structure/7.0 Carbohydrates - General Structure Index.md",
-    "BCHE102A/7.0 Carbohydrate General structure/7.1 Carbohydrates General Structure.md",
-    "BCHE102A/7.0 Carbohydrate General structure/7.3 Carbohydrates - Fischer to Haworth.md",
-    "LSVI102/4.0 Quiz 1/4.0 Quiz 1.md",
-    "PEED103/4.0/4.1 Recap of 3.0.md"
+    "BCHE102A/7.0 Carbohydrate General structure/7.0 Carbohydrates - General Structure Index.md"
   ]
 }
