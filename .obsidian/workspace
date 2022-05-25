@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BASC101A/5.0 Breeds of Pig/5.3 Pork Parasites.md",
+            "file": "BASC101A/8.0 Internal Anatomy/8.1 The Integumentary System Overview.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASC101A/5.0 Breeds of Pig/5.3 Pork Parasites.md",
+                "file": "BASC101A/8.0 Internal Anatomy/8.1 The Integumentary System Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "5bb17d02ef08e80d",
   "lastOpenFiles": [
+    "BASC101A/8.0 Internal Anatomy/8.1 The Integumentary System Overview.md",
+    "BASC101A/8.0 Internal Anatomy/8.2 Layers of the Skin.md",
+    "BASC101A/8.0 Internal Anatomy/8.3 Skin Appendages.md",
     "BASC101A/5.0 Breeds of Pig/5.3 Pork Parasites.md",
     "BASC101A/5.0 Breeds of Pig/5.2 Breeds of Swine.md",
     "BASC101A/5.0 Breeds of Pig/5.1 Breeds of Swine Overview.md",
     "BASC101A/1.0 Orientation and Module 1/1.3 Introduction to Animal Production and Economics.md",
     "BASC101A/6.0 Breeds of Chicken/6.5 Breeds of Chicken Known for Appearance.md",
     "BASC101A/6.0 Breeds of Chicken/6.4 Breeds known for Friendliness.md",
-    "BASC101A/6.0 Breeds of Chicken/6.1 Breeds of Chicken Introduction.md",
-    "BASC101A/6.0 Breeds of Chicken/6.3 Breeds with Great Meat Taste.md",
-    "BASC101A/6.0 Breeds of Chicken/6.2 Egg Laying Breeds.md",
-    "PEED103/8.0 Group 4 Reporting Module 2/8.1.md"
+    "BASC101A/6.0 Breeds of Chicken/6.1 Breeds of Chicken Introduction.md"
   ]
 }
