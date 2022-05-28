@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.2 Definitions in Breeding.md",
+            "file": "BASC101A/5.0 Breeds of Pig/5.2 Breeds of Swine.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.2 Definitions in Breeding.md",
+                "file": "BASC101A/5.0 Breeds of Pig/5.2 Breeds of Swine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,10 +92,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "00e45f393d2b51e9",
   "lastOpenFiles": [
+    "BASC101A/5.0 Breeds of Pig/5.2 Breeds of Swine.md",
+    "BASC101A/5.0 Breeds of Pig/5.1 Breeds of Swine Overview.md",
     "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.2 Definitions in Breeding.md",
     "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.1 Breeds of Cattle.md",
     "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.0 Reminders.md",
@@ -103,8 +106,6 @@
     "BASC101A/4.0 Breeds of Horse/4.3 10 Most Popular Breeds of Horse in the World.md",
     "BASC101A/8.0 Internal Anatomy/8.1 The Integumentary System Overview.md",
     "BASC101A/8.0 Internal Anatomy/8.2 Layers of the Skin.md",
-    "BASC101A/8.0 Internal Anatomy/8.3 Skin Appendages.md",
-    "BASC101A/7.0 External Anatomy of Various Farm Animals/7.2 Directional Terms.md",
-    "BASC101A/7.0 External Anatomy of Various Farm Animals/7.1 What is Anatomy.md"
+    "BASC101A/8.0 Internal Anatomy/8.3 Skin Appendages.md"
   ]
 }
