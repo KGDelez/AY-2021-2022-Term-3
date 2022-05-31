@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BASC101A/5.0 Breeds of Pig/5.2 Breeds of Swine.md",
+            "file": "BCHE102A/9.0 Midterms Exam Review 2/9.1 Carbohydrates.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "missing",
+                "query": "epimer",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BASC101A/5.0 Breeds of Pig/5.2 Breeds of Swine.md",
+                "file": "BCHE102A/9.0 Midterms Exam Review 2/9.1 Carbohydrates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "00e45f393d2b51e9",
   "lastOpenFiles": [
-    "BASC101A/5.0 Breeds of Pig/5.2 Breeds of Swine.md",
-    "BASC101A/5.0 Breeds of Pig/5.1 Breeds of Swine Overview.md",
-    "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.2 Definitions in Breeding.md",
-    "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.1 Breeds of Cattle.md",
-    "BASC101A/3.0 Breeds of Cattle, Goat, and Sheep/3.0 Reminders.md",
-    "BASC101A/4.0 Breeds of Horse/4.2 Breeds of Horse.md",
-    "BASC101A/4.0 Breeds of Horse/4.3 10 Most Popular Breeds of Horse in the World.md",
-    "BASC101A/8.0 Internal Anatomy/8.1 The Integumentary System Overview.md",
-    "BASC101A/8.0 Internal Anatomy/8.2 Layers of the Skin.md",
-    "BASC101A/8.0 Internal Anatomy/8.3 Skin Appendages.md"
+    "BCHE102A/9.0 Midterms Exam Review 2/9.1 Carbohydrates.md",
+    "BCHE102A/8.0 Midterms Exam Review/8.3 Carbohydrates.md",
+    "BCHE102A/8.0 Midterms Exam Review/8.2 Water and Its Properties.md",
+    "CORE107/3.0 Philosophical Perspectives of Self/3.11 Ryle.md",
+    "CORE107/4.0 Anthropological and Sociological Perspective of Self/4.4 Charles Horton Cooley.md",
+    "CORE107/3.0 Philosophical Perspectives of Self/3.8 John Locke.md",
+    "CORE107/4.0 Anthropological and Sociological Perspective of Self/4.3 George Herbert Mead.md",
+    "CORE107/3.0 Philosophical Perspectives of Self/3.9 Hume.md",
+    "CORE107/3.0 Philosophical Perspectives of Self/3.10 Emmanuel Kant.md",
+    "CORE107/3.0 Philosophical Perspectives of Self/3.7 Rene Descartes.md"
   ]
 }
