@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102A/8.0 Midterms Exam Review/8.3 Carbohydrates.md",
+            "file": "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.4 Structural Lipids.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "steroid",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102A/8.0 Midterms Exam Review/8.3 Carbohydrates.md",
+                "file": "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.4 Structural Lipids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +98,15 @@
   },
   "active": "c2ed2ab26f302e00",
   "lastOpenFiles": [
-    "BCHE102A/8.0 Midterms Exam Review/8.3 Carbohydrates.md",
-    "BCHE102A/8.0.1 Midterms Exam Review 2/Attachments/Pasted image 20220531131923.png",
+    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.4 Structural Lipids.md",
+    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.3 Storage Lipids.md",
+    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.2 Lipid Structure.md",
+    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.1 Lipids Introduction.md",
     "BCHE102A/8.0.1 Midterms Exam Review 2/8.0.1.1 Carbohydrates Midterms Review.md",
-    "BCHE102A/8.0 Midterms Exam Review/8.2 Water and Its Properties.md",
+    "BCHE102A/8.0 Midterms Exam Review/8.3 Carbohydrates.md",
     "BCHE102A/8.0 Midterms Exam Review/8.1 Midterms Exam Coverage.md",
-    "BCHE102A/0.0 Self Study/0.4 Water and Its Properties/0.4 Water and Its Properties.md",
-    "BCHE102A/0.0 Self Study/0.4 Water and Its Properties/Untitled.md",
-    "BCHE102A/0.0 Self Study/0.3 Lipids/Lipids.md",
-    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/Carbohydrates.md",
-    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.4 Polysaccharides.md"
+    "BCHE102A/8.0.1 Midterms Exam Review 2/Attachments/Pasted image 20220531131923.png",
+    "BCHE102A/8.0 Midterms Exam Review/8.2 Water and Its Properties.md",
+    "BCHE102A/0.0 Self Study/0.4 Water and Its Properties/0.4 Water and Its Properties.md"
   ]
 }
