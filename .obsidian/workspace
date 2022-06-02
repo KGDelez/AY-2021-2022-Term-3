@@ -7,8 +7,12 @@
         "id": "ee1efc275798b056",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "BCHE102B/4.0 Post-Lab 3-4/4.4 Post-Lab 4/4.4.1.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "steroid",
+                "query": "amylose solub",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BCHE102B/4.0 Post-Lab 3-4/4.4 Post-Lab 4/4.4.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,15 +97,15 @@
   },
   "active": "ee1efc275798b056",
   "lastOpenFiles": [
-    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.5 Table of Polysaccharides.md",
-    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.3 Oligosaccharides.md",
+    "BCHE102B/4.0 Post-Lab 3-4/4.4 Post-Lab 4/4.4.1.md",
+    "BCHE102B/4.0 Post-Lab 3-4/4.3 Post-Lab 3/4.3.3 Protein Denaturation.md",
+    "BCHE102B/4.0 Post-Lab 3-4/4.3 Post-Lab 3/4.3.2 Qualitative Tests.md",
+    "BCHE102B/4.0 Post-Lab 3-4/4.3 Post-Lab 3/Qualitative Test Summary.md",
     "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.4 Polysaccharides.md",
-    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.2 Disaccharides.md",
-    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.1 Carbohydrates.md",
-    "BCHE102A/4.0 Introduction Continuation/4.4 Characteristics of Life.md",
-    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.4 Structural Lipids.md",
-    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.3 Storage Lipids.md",
-    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.2 Lipid Structure.md",
-    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.1 Lipids Introduction.md"
+    "BCHE102B/4.0 Post-Lab 3-4/4.3 Post-Lab 3/4.3.1 Carbohyrdrates.md",
+    "BCHE102B/4.0 Post-Lab 3-4/4.2 Review of Biomolecules.md",
+    "BCHE102B/4.0 Post-Lab 3-4/Untitled 14.3 Lab.md",
+    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.5 Table of Polysaccharides.md",
+    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.3 Oligosaccharides.md"
   ]
 }
