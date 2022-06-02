@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2ed2ab26f302e00",
+        "id": "ee1efc275798b056",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.4 Polysaccharides.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d9f8df35be209a05",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.5 Table of Polysaccharides.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.5 Table of Polysaccharides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9f8df35be209a05",
+  "active": "ee1efc275798b056",
   "lastOpenFiles": [
     "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.5 Table of Polysaccharides.md",
-    "BCHE102A/4.0 Introduction Continuation/4.4 Characteristics of Life.md",
+    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.3 Oligosaccharides.md",
     "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.4 Polysaccharides.md",
+    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.2 Disaccharides.md",
+    "BCHE102A/0.0 Self Study/0.2 Carbohydrates/0.2.1 Carbohydrates.md",
+    "BCHE102A/4.0 Introduction Continuation/4.4 Characteristics of Life.md",
     "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.4 Structural Lipids.md",
     "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.3 Storage Lipids.md",
     "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.2 Lipid Structure.md",
-    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.1 Lipids Introduction.md",
-    "BCHE102A/8.0.1 Midterms Exam Review 2/8.0.1.1 Carbohydrates Midterms Review.md",
-    "BCHE102A/8.0 Midterms Exam Review/8.3 Carbohydrates.md",
-    "BCHE102A/8.0 Midterms Exam Review/8.1 Midterms Exam Coverage.md"
+    "BCHE102A/0.0 Self Study/0.3 Lipids/0.3.1 Lipids Introduction.md"
   ]
 }
