@@ -1,2 +1,5 @@
 ![[4.4.1 Biochemical Compositions]]
 ![[4.4.2 Qualitative Tests for Carbohydrates]]
+![[4.4.3 Qualitative Tests for Lipids]]
+![[4.4.4 Qualitative Tests for Proteins]]
+![[4.4.5 Guide Questions]]
