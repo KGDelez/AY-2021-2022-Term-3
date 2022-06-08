@@ -1,0 +1,29 @@
+## Ruminant Digestive System
+![[Pasted image 20220608090805.png]]
+- allows the ruminant to efficiently feed on high roughage feedstuffs including forages
+- Anatomy includes:
+	- Mouth
+	- Tongue
+	- Salivary glands - produces saliva for buffering rumen pH
+	- Esophagus
+	- 4 compartment stomach
+		- Rumen - 2nd anterior
+		- Reticulum - most anterior
+		- Omasum - 3rd
+		- Abomasum - 4th
+	- Pancreas
+	- Gall bladder
+	- Liver
+	- Small intestine
+		- Duodenum
+		- Jejunum
+		- Ileam
+	- Large Intestine
+		- Cecum
+		- Colon
+		- Rectum
+
+### Why is the digestive system considered the direct continuation of the external environment to the animal's body?
+- the anterior end - mouth
+- the posterior end - anus
+- they're both **open**
