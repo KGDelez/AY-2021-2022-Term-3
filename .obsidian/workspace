@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1efc275798b056",
+        "id": "dbb6006a07036cdd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102A/9.0 Proteins/Proteins Compilation.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "d5906f92dfe7f512",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "BCHE102A/9.0 Proteins/9.5 Amino Acids.md",
+            "file": "CORE107/7.0 Sexual Self/Sexual Self.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102A/9.0 Proteins/Proteins Compilation.md",
+                "file": "CORE107/7.0 Sexual Self/Sexual Self.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee1efc275798b056",
+  "active": "dbb6006a07036cdd",
   "lastOpenFiles": [
-    "BCHE102A/9.0 Proteins/Proteins Compilation.md",
-    "BCHE102A/9.0 Proteins/9.9 Writing Peptides.md",
-    "BCHE102A/9.0 Proteins/9.5 Amino Acids.md",
-    "BCHE102A/9.0 Proteins/9.6 Classification of Amino Acids.md",
-    "BCHE102A/9.0 Proteins/9.4 Protein Denaturation.md",
-    "BCHE102A/9.0 Proteins/9.8 Peptide Bonds.md",
-    "BCHE102A/9.0 Proteins/9.7 Peptides.md",
-    "BCHE102A/9.0 Proteins/9.3 Protein Structure.md",
-    "BCHE102A/9.0 Proteins/9.2 Protein Classifications.md",
-    "BCHE102A/9.0 Proteins/9.1 Proteins.md"
+    "CORE107/7.0 Sexual Self/Sexual Self.md",
+    "CORE107/7.0 Sexual Self/7.15 Terms to Remember.md",
+    "CORE107/7.0 Sexual Self/7.10 Factors affecting sexuality.md",
+    "CORE107/7.0 Sexual Self/7.9 Deviant Sexual Behavior.md",
+    "CORE107/7.0 Sexual Self/7.8 Types of Sexual Expression.md",
+    "CORE107/7.0 Sexual Self/7.7 Types of Sexual Orientation.md",
+    "CORE107/7.0 Sexual Self/7.6 Erogenous Zones.md",
+    "CORE107/7.0 Sexual Self/7.2 Reproductive System.md",
+    "CORE107/7.0 Sexual Self/7.1 Sexual Self.md",
+    "BCHE102A/9.0 Proteins/9.5 Amino Acids.md"
   ]
 }
