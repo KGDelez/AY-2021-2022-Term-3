@@ -1,0 +1,5 @@
+![[8.1 The Filipino Catholic]]
+![[8.2 Images of Christ in Filipino Religiosity]]
+![[8.3 Mission of Christ]]
+![[8.4  Christ for the Youth of Today]]
+![[8.5 What would Jesus Do and Jesus' Love]]
