@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102A/11.0 Zwitterions and Isoelectric Point Cont/11.1 Zwitterions and Isoelectric Point Continuation.md",
+            "file": "BCHE102B/7.0 Post Lab 5-6/7.1 Lab Safety Rules.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102A/11.0 Zwitterions and Isoelectric Point Cont/11.1 Zwitterions and Isoelectric Point Continuation.md",
+                "file": "BCHE102B/7.0 Post Lab 5-6/7.1 Lab Safety Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "dbb6006a07036cdd",
   "lastOpenFiles": [
+    "BCHE102B/7.0 Post Lab 5-6/7.1 Lab Safety Rules.md",
+    "BCHE102B/7.0 Post Lab 5-6/7.2 Measurement Standards.md",
     "BCHE102A/11.0 Zwitterions and Isoelectric Point Cont/11.1 Zwitterions and Isoelectric Point Continuation.md",
     "BCHE102A/10.0 Zwitterions and Isoelectric Point/10.2 Zwitterion and Isoelectric Point.md",
     "BCHE102A/9.0 Proteins/9.6 Classification of Amino Acids.md",
@@ -104,8 +106,6 @@
     "LSVI102/8.0 Christ in the Lives of Filipinos/Christ in the Lives of Filipinos.md",
     "LSVI102/8.0 Christ in the Lives of Filipinos/8.5 What would Jesus Do and Jesus' Love.md",
     "LSVI102/7.0 The Bible, The Church, and Christian Family/7.n Symbols of Jesus.md",
-    "BCHE102B/6.0 Post-Lab 5-6/6.1.1 Post-Lab 5.md",
-    "CORE107/7.0 Sexual Self/Sexual Self.md",
-    "CORE107/7.0 Sexual Self/7.15 Terms to Remember.md"
+    "BCHE102B/6.0 Post-Lab 5-6/6.1.1 Post-Lab 5.md"
   ]
 }
