@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "BCHE102B/7.0 Post Lab 5-6/7.2 Measurement Standards.md",
+            "file": "BASC101A/15.0 Urinary System of Mammals and Avians/15.2 Avian Urinary System.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BCHE102B/7.0 Post Lab 5-6/7.2 Measurement Standards.md",
+                "file": "BASC101A/15.0 Urinary System of Mammals and Avians/15.2 Avian Urinary System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "dbb6006a07036cdd",
   "lastOpenFiles": [
+    "BASC101A/15.0 Urinary System of Mammals and Avians/15.2 Avian Urinary System.md",
+    "BASC101A/15.0 Urinary System of Mammals and Avians/15.1 Urinary System of Mammals.md",
     "BCHE102B/7.0 Post Lab 5-6/7.2 Measurement Standards.md",
     "BCHE102B/7.0 Post Lab 5-6/7.1 Lab Safety Rules.md",
     "BCHE102B/6.0 Post-Lab 5-6 and Pre-lab 7&8/6.2 Post-Lab 6.md",
@@ -104,8 +106,6 @@
     "BCHE102A/11.0 Zwitterions and Isoelectric Point Cont/11.1 Zwitterions and Isoelectric Point Continuation.md",
     "BCHE102A/10.0 Zwitterions and Isoelectric Point/10.2 Zwitterion and Isoelectric Point.md",
     "BCHE102A/9.0 Proteins/9.6 Classification of Amino Acids.md",
-    "BCHE102A/10.0 Zwitterions and Isoelectric Point/10.1 Amino Acid Sterochemistry.md",
-    "LSVI102/8.0 Christ in the Lives of Filipinos/Christ in the Lives of Filipinos.md",
-    "LSVI102/8.0 Christ in the Lives of Filipinos/8.5 What would Jesus Do and Jesus' Love.md"
+    "BCHE102A/10.0 Zwitterions and Isoelectric Point/10.1 Amino Acid Sterochemistry.md"
   ]
 }
