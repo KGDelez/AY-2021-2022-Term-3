@@ -3,7 +3,7 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "./Attachments",
+  "attachmentFolderPath": "BCHE102A/12.0 Central Dogma of Molecular Biology/Attachments",
   "foldHeading": true,
   "foldIndent": true,
   "showFrontmatter": true,
@@ -13,5 +13,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 80
-  }
+  },
+  "newFileLocation": "current"
 }

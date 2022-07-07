@@ -1,0 +1,5 @@
+![[12.1 Central Dogma]]
+![[12.2 Transcription]]
+![[12.3 Checkpoint]]
+![[BCHE102A/12.0 Central Dogma of Molecular Biology/12.4 Translation]]
+![[12.5 Practice Exercise]]
