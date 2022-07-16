@@ -1,0 +1,6 @@
+![[14.1 What is a model]]
+![[14.2 Model - The Church as an Institution]]
+![[14.3 Model - The Church as Communion]]
+![[14.4 Model - The Church as Sacrament]]
+![[14.5 Model - The Church as Prophet]]
+![[14.6 Model - The Church as Servant]]
