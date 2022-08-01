@@ -1,7 +1,7 @@
 ![[12.1 Context and Communal Life of Christians]]
 ![[12.2 Etymology of the Church]]
 ![[12.3 Old Testament - Ekklesia]]
-![[12.4 New Testamnet - Ekklesia]]
+![[12.4 New Testament - Ekklesia]]
 ![[12.5 Acts of the Apostles]]
 ![[12.6 Pauline Literature - Ekklesia]]
 ![[12.7 Ekklesia now]]
