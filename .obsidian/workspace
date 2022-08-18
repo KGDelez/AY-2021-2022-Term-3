@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CORE107/1.0 Introduction and Orientation/1.0 Introduction and Orientation.md",
+            "file": "BASC101A/17.0 Slaughtering and Different Meat Cuts/17.12 Chicken Cuts.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CORE107/1.0 Introduction and Orientation/1.0 Introduction and Orientation.md",
+                "file": "BASC101A/17.0 Slaughtering and Different Meat Cuts/17.12 Chicken Cuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +95,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52ea8e29bf06a68d",
+  "active": "3e85d15d1a99385e",
   "lastOpenFiles": [
+    "BASC101A/17.0 Slaughtering and Different Meat Cuts/17.13 Chicken Cuts.md",
+    "BASC101A/17.0 Slaughtering and Different Meat Cuts/17.12 Chicken Cuts.md",
+    "BASC101A/17.0 Slaughtering and Different Meat Cuts/17.11 Pork Cuts.md",
+    "BASC101A/17.0 Slaughtering and Different Meat Cuts/17.10 Different Cuts of Beef.md",
+    "CORE107/1.0 Introduction and Orientation/1.0 Introduction and Orientation.md",
     "LSVI102/9.0 Quiz 2/9.0 Quiz 2.md",
     "LSVI102/14.0 Models of the Church/Models of the Church.md",
     "LSVI102/14.0 Models of the Church/14.6 Model - The Church as Servant.md",
     "LSVI102/13.0 Quiz 4/13.1 Quiz 4.md",
-    "LSVI102/12.0 Attributes and Characteristics of the Church/Characteristics and Attributes of the Church.md",
-    "LSVI102/11.0 Quiz 3/11.0 Quiz 3.md",
-    "LSVI102/10.0 History of the Church/History of the Church.md",
-    "LSVI102/10.0 History of the Church/10.16 Summary.md",
-    "LSVI102/8.0 Christ in the Lives of Filipinos/8.5 What would Jesus Do and Jesus' Love.md",
-    "LSVI102/8.0 Christ in the Lives of Filipinos/Christ in the Lives of Filipinos.md"
+    "LSVI102/12.0 Attributes and Characteristics of the Church/Characteristics and Attributes of the Church.md"
   ]
 }
